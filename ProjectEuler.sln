@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler.CSharp", "ProjectEuler.CSharp\ProjectEuler.CSharp.csproj", "{89C5ADEF-DF70-4575-BAE1-5043A794B553}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProjectEuler.FSharp", "ProjectEuler.FSharp\ProjectEuler.FSharp.fsproj", "{341CACDF-AFA9-4E68-9791-69912C3B1619}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{89C5ADEF-DF70-4575-BAE1-5043A794B553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C5ADEF-DF70-4575-BAE1-5043A794B553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89C5ADEF-DF70-4575-BAE1-5043A794B553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341CACDF-AFA9-4E68-9791-69912C3B1619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341CACDF-AFA9-4E68-9791-69912C3B1619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341CACDF-AFA9-4E68-9791-69912C3B1619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341CACDF-AFA9-4E68-9791-69912C3B1619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
