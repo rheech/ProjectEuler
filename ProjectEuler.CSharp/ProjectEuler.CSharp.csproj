@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectEuler.CSharp.Euler004</StartupObject>
+    <StartupObject>ProjectEuler.CSharp.Euler005</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
@@ -49,6 +49,7 @@
     <Compile Include="Euler002.cs" />
     <Compile Include="Euler003.cs" />
     <Compile Include="Euler004.cs" />
+    <Compile Include="Euler005.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
